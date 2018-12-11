@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\nrich_utils\Plugin\EntityBrowser\Widget;
+namespace Drupal\bouvet_utils\Plugin\EntityBrowser\Widget;
 
 use Drupal\Core\Form\FormStateInterface;
 use Drupal\Core\Url;
