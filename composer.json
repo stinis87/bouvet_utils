@@ -1,0 +1,14 @@
+{
+  "name": "stinis87/bouvet_utils",
+  "type": "drupal-module",
+  "description": "Misc utils stuff",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/bouvet_utils",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/bouvet_utils",
+    "source": "http://cgit.drupalcode.org/bouvet_utils"
+  },
+  "require": { }
+}

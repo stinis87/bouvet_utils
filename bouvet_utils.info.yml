@@ -1,0 +1,5 @@
+name: Bouvet utils
+type: module
+description: Misc utils stuff
+core: 8.x
+package: Bouvet
