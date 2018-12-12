@@ -1,0 +1,15 @@
+bouvet_utils.page_not_found:
+  path: '/side-ikke-funnet'
+  defaults:
+    _controller: '\Drupal\bouvet_utils\Controller\BouvetUtilsController::page_not_found'
+    _title: 'Side ikke funnet'
+  requirements:
+    _permission: 'access content'
+
+bouvet_utils.access_denied:
+  path: '/ikke-tilgang'
+  defaults:
+    _controller: '\Drupal\bouvet_utils\Controller\BouvetUtilsController::access_is_denied'
+    _title: 'Ikke tilgang'
+  requirements:
+    _permission: 'access content'
