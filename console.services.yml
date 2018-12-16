@@ -1,0 +1,11 @@
+services:
+  bouvet_utils.bcim:
+    class: Drupal\bouvet_utils\Command\BouvetUtilsCimCommand
+    arguments: []
+    tags:
+      - { name: drupal.command }
+  bouvet_utils.bcex:
+    class: Drupal\bouvet_utils\Command\BouvetUtilsCexCommand
+    arguments: []
+    tags:
+      - { name: drupal.command }
