@@ -1,6 +1,6 @@
 {
   "name": "stinis87/bouvet_utils",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "description": "Misc utils stuff",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
