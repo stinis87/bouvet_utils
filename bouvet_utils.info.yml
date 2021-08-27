@@ -1,5 +1,5 @@
 name: Bouvet utils
 type: module
 description: Misc utils stuff
-core_version_requirement: ^8.8 || ^9
+core_version_requirement: ^8.9 || ^9
 package: Bouvet
